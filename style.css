@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding 0px;
+    font-family:Arial, Helvetica, sans-serif
+}
+h1 {
+    text-align: center;
+}
+body {
+    background-color: lightgrey;
+    width: 100vh;
+    padding: 20px;
+}
+div {
+    margin-top: 20px;
+}
+.block1 {
+    display: flex;
+    background-color: deepskyblue;
+    height: 250px;
+    padding: 20px;
+    justify-content: space-between;
+}
+.block2 {
+    display: flex;
+    background-color:khaki;
+    height: 250px;
+    padding: 20px;
+    justify-content: space-around;
+}
+.block3 {
+    display: flex;
+    background-color:palevioletred;
+    height: 250px;
+    padding: 20px;
+    justify-content: space-between;
+}
+.reference {
+    text-align: center;
+}
